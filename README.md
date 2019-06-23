@@ -3,6 +3,8 @@ Simple spell-check application for Application Security course
 
 ./spellcheck < inputfile >
 
+Writes misspelled words in inputfile to spellcheck_errors.txt 
+
 Note that the sample input file given is a selection from the following eBook from The Project Gutenberg
 http://www.gutenberg.org/files/59774/59774-0.txt
 
